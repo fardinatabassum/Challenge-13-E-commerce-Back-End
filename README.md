@@ -6,7 +6,7 @@ This repository contains the code used to make the backend for an e-commerce sit
 
 ## Installation
 
-### Link to insomnia video demo: 
+### Link to insomnia video demo: https://drive.google.com/file/d/1oBysMPLHIPMsBswPcZreJVuCJSf-jcyM/view
 
 On the terminal install the necessary packages using nmp install including dotenv and sequilize packages. Install the following packages by using the code below.
 
